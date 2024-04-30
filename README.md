@@ -2,7 +2,7 @@
 # Hello, I'm Michael Saliba
 <a href="www.linkedin.com/in/michael-saliba-1171a1156"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an upcoming graduate with a robust background in technology and cybersecurity, driven by a passion for solving intricate challenges. With a strong foundation in program and operations leadership developed through years of experience at Alstom and an educational trajectory focused on computer systems, I am dedicated to leveraging my skills to drive education and enhance security in the tech industry.
+I am an upcoming graduate from Fanshawe College with a robust background in technology and cybersecurity, driven by a passion for solving intricate challenges. With a strong foundation in program and operations leadership developed through years of experience in other industries and an educational trajectory focused on computer systems, I am dedicated to leveraging my skills to drive education in cybersecurity and enhance security frameworks across diverse sectors. My goal is to apply innovative technologies and strategic insights to strengthen digital infrastructures and safeguard sensitive information.
 
 ## Objective
 
